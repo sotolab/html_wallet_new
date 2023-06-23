@@ -1,2 +1,9 @@
-# html_wallet_new
-html_wallet_new
+# html_wallet
+html wallet
+
+Web3.js 1.8.2 적용.
+Bootstrap 5.x 적용.
+Ganache 사용을 위한 코드 수정.
+
+
+
