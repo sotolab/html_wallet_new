@@ -8,5 +8,8 @@ Ganache 사용을 위한 코드 수정.
 Sepolia PoW Faucet
 https://sepolia-faucet.pk910.de/
 
+예제파일
+https://www.rareskills.io/post/web3-js-tutorial
+
 
 
